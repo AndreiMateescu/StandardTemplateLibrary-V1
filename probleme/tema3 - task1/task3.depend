@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1481551139 source:c:\users\diamo\desktop\stl\stl - sesiunea 1 - containers and iterators\probleme\tema3 - task1\main.cpp
+	<set>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+
